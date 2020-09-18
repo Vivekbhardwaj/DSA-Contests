@@ -67,9 +67,9 @@ int32_t main(){
 /*
 NOTE : Its important to know how set works to understand this solution 
 Some important things : 
-1. You can only increment or decrement the iterator by 1 /
+1. You can only increment or decrement the iterator by 1 
 2. you cannot use  >= or <= or other comparison operators for iterators (that is why i had to use left_iter!=right_iter
-  instead of simply using left_iter < right_iter)
+   instead of simply using left_iter < right_iter)
 
 Further Read : https://www.geeksforgeeks.org/set-in-cpp-stl/
             : http://www.cplusplus.com/reference/set/set/
